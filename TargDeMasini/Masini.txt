@@ -1,0 +1,8 @@
+1;Tupa;Sebastian;BMW;5 Series Sedan;27-05-2022;Albastru;Aer Conditionat Navigatie Cutie Automata Incalzire in scaune Bluetooth ;5645;756453653;
+2;Goghie;Ovidiu;Volkswagen;Fox;14-07-2005;Portocaliu;Aer Conditionat Navigatie Incalzire in scaune Bluetooth ABS ;3500;647643256;
+5;Constantin;Ovidiu;Mercedes-Benz;Maybach GLS SUV;21-07-2016;Gri;Aer Conditionat Navigatie Cutie Automata Bluetooth Servodirectie ;6700;567456456;
+6;Cernusca;Paul;Mercedes-Benz;AMG GT;27-05-2022;Negru;Aer Conditionat Navigatie Cutie Automata Incalzire in scaune Bluetooth Senzori de parcare ABS Servodirectie ;15500;5647456564;
+6;Chifan;Constantin;BMW;5 Series Sedan;03-06-2014;Albastru;Aer Conditionat Navigatie Cutie Automata Senzori de parcare ;8560;796545365;
+7;Cernusca;Paul;Audi;S4 Limousine;03-06-2014;Negru;Aer Conditionat Cutie Automata Incalzire in scaune Senzori de parcare ;8560;765456467;
+8;Goghie;Alex;Audi;S3 Limousine;21-07-2016;Mov;Aer Conditionat Cutie Automata Incalzire in scaune Senzori de parcare ABS ;5660;7656346533;
+9;test;test;Mercedes-Benz;GLB SUV;27-05-2022;Mov;Navigatie Bluetooth ABS Servodirectie ;23423;4535334545;
